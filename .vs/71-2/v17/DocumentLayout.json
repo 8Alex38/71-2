@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\se641\\source\\repos\\71-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A3E536-30A0-495F-85B4-2419746E0F07}|71-2\\71-2.vcxproj|C:\\Users\\se641\\source\\repos\\71-2\\71-2\\71-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73A3E536-30A0-495F-85B4-2419746E0F07}|71-2\\71-2.vcxproj|solutionrelative:71-2\\71-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EDE12A-911B-46C1-B972-2863248C3B65}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\se641\\source\\repos\\71-2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7EDE12A-911B-46C1-B972-2863248C3B65}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\se641\\source\\repos\\71-2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\se641\\source\\repos\\71-2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T18:26:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "71-2.cpp",
+              "DocumentMoniker": "C:\\Users\\se641\\source\\repos\\71-2\\71-2\\71-2.cpp",
+              "RelativeDocumentMoniker": "71-2\\71-2.cpp",
+              "ToolTip": "C:\\Users\\se641\\source\\repos\\71-2\\71-2\\71-2.cpp",
+              "RelativeToolTip": "71-2\\71-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T18:20:23.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
